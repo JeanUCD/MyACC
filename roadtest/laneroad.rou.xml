@@ -1,0 +1,4 @@
+<routes>
+   <vType id="car" type="passenger" length="5" carFollowModel="Krauss"  />
+   <flow id="carflow" type="car" beg="0" end="3600" number="300" from = "end0" to = "end1" />
+</routes>
